@@ -11,5 +11,5 @@ loop do
 	end
 	break if !validator
 end
-    
-p arr[-1]
+# print second highest element    
+p arr[-2]
